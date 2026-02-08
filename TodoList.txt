@@ -1,0 +1,10 @@
+Ngày 1: Hello World!
+Ngày 2: Cấu trúc Web chuẩn (head, body)
+Ngày 3: Định dạng văn bản (h1-h6, ...)
+Ngày 4: Danh sách (Lists: ul, ol, li)
+Ngày 5: Hình ảnh (image) <img src="" alt="" width=>
+Ngày 6: Liên kết (Links) <a href=" "> content <\a>
+Ngày 7: CSS cơ bản và màu sắc 
+Ngày 8: Class (.) và ID (#)
+Ngày 9: CSS Box Model
+Ngày 10: Display & Tổng kết
