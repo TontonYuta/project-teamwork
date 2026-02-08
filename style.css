@@ -28,6 +28,7 @@ li {
 #avt{
     border-radius: 50% ;
     border: 5px solid red;
+    
 }
 
 #ngon{
@@ -48,4 +49,10 @@ li {
     width: 90%;
     text-align: center;
 
+}
+
+#ngon li {
+    border-bottom: 1px solid gray;
+    padding: 5px;
+    margin: 5px auto;
 }
