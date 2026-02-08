@@ -36,4 +36,16 @@ li {
 
 #tieude{
     color: purple;
+    background-color: wheat;
+}
+
+.tieu-de-chinh{
+    background-color: pink;
+    width: 260px;
+    padding: 20px 30px 20px;
+    border: 5px solid red;
+    margin: 50px auto;
+    width: 90%;
+    text-align: center;
+
 }
