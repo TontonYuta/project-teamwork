@@ -1,0 +1,39 @@
+body {
+    background-color: #1abc9c;
+}
+
+h1 {
+    color: red;
+    background-color: yellow;
+}
+
+p {
+    color: blue
+}
+
+a {
+    color: green;
+}
+
+li {
+    color: brown;
+}
+
+.highlight{
+    color: gray;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#avt{
+    border-radius: 50% ;
+    border: 5px solid red;
+}
+
+#ngon{
+    text-decoration: underline;
+}
+
+#tieude{
+    color: purple;
+}
