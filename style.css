@@ -56,3 +56,31 @@ li {
     padding: 5px;
     margin: 5px auto;
 }
+
+.mon-ngon{
+    color: red;
+    font-weight: bold;
+    width: 200px;
+}
+
+.navbar {
+    display: inline-block;
+    background-color: navy;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.nut-mua{
+    display: inline-block;
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    margin-right: 5px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
