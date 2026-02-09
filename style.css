@@ -63,7 +63,8 @@ li {
     width: 200px;
 }
 
-.navbar {
+
+.navbar li {
     display: inline-block;
     background-color: navy;
 }

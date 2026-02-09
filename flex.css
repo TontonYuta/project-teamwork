@@ -1,0 +1,34 @@
+.container {
+    display: flex;
+    gap: 10px;
+    border: 2px solid black;
+    justify-content: space-around;
+    height: 400px;
+    align-items: center;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.box1 {
+    background-color: red;
+}
+.box2 {
+    background-color: blue;
+}
+.box3{
+    background-color: green;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
