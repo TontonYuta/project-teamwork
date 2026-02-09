@@ -28,13 +28,6 @@ input{
     border: 1px solid #ccc;
     border-radius: 5px;
     font-size: 16px;
-    outline: none;
-    transition: 0.5s;
-}
-
-input:focus{
-    border-color: #2980b9;
-    box-shadow: 0 0 8px rgba(41, 128 , 185, 0.3);
 }
 
 button {
@@ -45,17 +38,4 @@ button {
     border-radius: 5px;
     cursor: pointer;
     font-weight: bold;
-    transition: all 0.3s ease;
-    
 }
-
-button:hover{
-    background-color: #1abc9c;
-    transform: translateY(-3px);
-    box-shadow: 0 5px 15px rgba(0, 0 , 0, 0.2);
-}
-
-button:active{
-    transform: scale(0.9);
-}
-
