@@ -28,12 +28,7 @@ li {
 #avt{
     border-radius: 50% ;
     border: 5px solid red;
-    transition: all 3s ease;
-}
-
-#avt:hover{
-    transform: rotate(360deg);
-    cursor: pointer;
+    
 }
 
 #ngon{
@@ -68,11 +63,9 @@ li {
     width: 200px;
 }
 
-
-.navbar:hover{
-    cursor: pointer;
-    background-color: yellow;
-    text-decoration: underline;
+.navbar li {
+    display: inline-block;
+    background-color: navy;
 }
 
 ul li a {
@@ -91,14 +84,3 @@ ul li a {
     text-decoration: none;
 }
 
-.menu li{
-    display: inline-block;
-    margin-left: 40px;
-}
-
-.menu{
-    text-align: center;
-    padding: 20px 30px;
-    font-size: large;
-    width: 90%;
-}
