@@ -1,7 +1,17 @@
-let a = 10, b =5;
-console.log(a,b);
+function kiemTraChanLe(x){
+    if (x%2==0){
+        return true;
+    }
 
-let tong = a+b;
-let hieu = a-b;
+    else return false;
+}
 
-console.log("Tong la: " + tong +"\nHieu la: " + hieu);
+let x = 10;
+if (kiemTraChanLe(x)){
+    console.log(x + " la so chan");
+}
+
+else
+{
+    console.log(x + " la so le.");
+}
